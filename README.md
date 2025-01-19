@@ -34,7 +34,20 @@ This project is built with **HTML, CSS, and JavaScript** and includes dynamic re
 - Libraries: moment.js  
 
 ---
+## Prerequisites  
+To run this project locally, you need to have the following installed:  
+- Node.js  
+- npm (Node Package Manager)  
 
+Install **moment.js** using the following command:  
+```bash  
+npm install moment --save
+```
+
+---
+
+## Screenshot  
+![Weather Web Application Screenshot](project.png)  
 
 ## Contact
 For any questions or feedback, feel free to reach out at:

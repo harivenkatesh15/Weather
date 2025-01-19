@@ -1,6 +1,5 @@
 let change = document.getElementById("changeLayout");
-const arr = ["url(pexels-eberhardgross-1287142.jpg)","url(pexels-enginakyurt-1571730.jpg)","linear-gradient(to right, rgba(0,71,171,1) 0%, rgba(28,169,201,1) 100%)"
-]
+const arr = ["rgb(60, 142, 136)","linear-gradient(to right, rgba(0,71,171,1) 0%, rgba(28,169,201,1) 100%)","rgba(109, 60, 142,1)"]
 let bodyy = document.getElementById("ch")
 let locationn = document.getElementById("locbtn")
 let i = 1;

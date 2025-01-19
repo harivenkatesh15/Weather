@@ -52,6 +52,6 @@ npm install moment --save
 ## Contact
 For any questions or feedback, feel free to reach out at:
 Email: harivenkatesh1505@gmail.com
-LinkedIn: [Profile](www.linkedin.com/in/hari1505)
+LinkedIn:[Hari's LinkedIn Profile](https://linkedin.com/in/hari1505)
 
 
